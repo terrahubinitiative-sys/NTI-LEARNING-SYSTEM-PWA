@@ -1,18 +1,19 @@
 {
   "name": "Navakholo TerraHub Learning System",
   "short_name": "NTILS",
-  "start_url": "/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#090d16",
   "theme_color": "#090d16",
   "icons": [
     {
-      "src": "icons/nti-logo.jpg",
+      "src": "./icons/nti-logo.jpg",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "icons/nti-logo.jpg",
+      "src": "./icons/nti-logo.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
